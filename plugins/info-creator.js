@@ -28,9 +28,9 @@ VERSION:3.0
 N:;;;
 FN: ᯤ 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=12136852040:12136852040@s.whatsapp.net
+item1.TEL;waid=4915256954581:4915256954581@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item2.EMAIL;type=INTERNET: zykobotmdofficial@gmail.com
+item2.EMAIL;type=INTERNET: alxniluhfficial@gmail.com
 item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Jakarta - Indonesian;;;;
 item3.X-ABADR:ac
@@ -39,11 +39,11 @@ item4.URL:https://youtube.com/@zykobotz
 item4.X-ABLabel:Youtube
 item5.URL:https://github.com/ZykoBotz-MD
 item5.X-ABLabel:Github
-item6.URL:https://instagram.com/kabulsaputra21 
-item6.X-ABLabel:Instagram kabulsaputra21 
-item7.URL:http://Instagram.com/kabulsaputra21
-item7.X-ABLabel: Instagram kabulsaputra21 
-item1.TEL;waid=12136852040:12136852040@s.whatsapp.net
+item6.URL:https://instagram.com/bednocturnal 
+item6.X-ABLabel:Instagram bednocturnal 
+item7.URL:http://Instagram.com/bednocturnal 
+item7.X-ABLabel: Instagram bednocturnal 
+item1.TEL;waid=4915256954581:4915256954581@s.whatsapp.net
 item1.X-ABLabel: Creator Bot
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
