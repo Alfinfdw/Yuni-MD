@@ -1,11 +1,11 @@
-global.you = ['12136852040'] 
+global.you = ['4915256954581'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
-global.rowner = ['12136852040'] // Real Owner Bot
-global.owner = ['12136852040'] // Owner Bot
-global.police = ['12136852040'] // Police Bot
-global.mods = ['12136852040']  // Want some help?
-global.prems = ['12136852040'] // Premium user has unlimited limit
+global.rowner = ['4915256954581'] // Real Owner Bot
+global.owner = ['4915256954581'] // Owner Bot
+global.police = ['4915256954581'] // Police Bot
+global.mods = ['4915256954581']  // Want some help?
+global.prems = ['4915256954581'] // Premium user has unlimited limit
 
 //menu wm
 global.wm = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
